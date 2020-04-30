@@ -1,0 +1,8 @@
+s21700099@peace:~/oss2020/test$ host naver.com
+naver.com has address 210.89.164.90
+naver.com has address 125.209.222.142
+naver.com has address 210.89.160.88
+naver.com has address 125.209.222.141
+naver.com mail is handled by 10 mx1.naver.com.
+naver.com mail is handled by 10 mx2.naver.com.
+naver.com mail is handled by 10 mx3.naver.com.
