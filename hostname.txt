@@ -1,0 +1,2 @@
+s21700099@peace:~/oss2020/test$ hostname -f
+peace

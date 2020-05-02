@@ -1,0 +1,4 @@
+ip rout show
+default via 203.252.112.1 dev enp129s0f1  proto static  metric 100
+169.254.0.0/16 dev enp129s0f1  scope link  metric 1000
+203.252.112.0/26 dev enp129s0f1  proto kernel  scope link  src 203.252.112.10  metric 100
